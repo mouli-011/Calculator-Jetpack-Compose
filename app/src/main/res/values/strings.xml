@@ -1,0 +1,23 @@
+<resources>
+    <string name="back">BACK</string>
+    <string name="app_name">Calculator</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MUL</string>
+    <string name="div">DIV</string>
+    <string name="reset">RESET</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="slash">/</string>
+    <string name="asterisk">*</string>
+    <string name="empty_string"> </string>
+    <string name="edit_text_empty_message">Input Should Not Be Empty</string>
+    <string name="result_string">%1d %2s %3d = %4s</string>
+    <string name="undefined">Undefined</string>
+    <string name="non_zero_alert">Anything divided by zero is undefined</string>
+    <string name="alphabet_error">Enter Numbers Only</string>
+    <string name="no_operation_chosen_error">No Operation Chosen</string>
+    <string name="choose_operation">Choose Operation</string>
+    <string name="enter_a_number">Enter a number</string>
+</resources>
